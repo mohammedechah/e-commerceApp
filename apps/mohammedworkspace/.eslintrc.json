@@ -17,7 +17,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "org",
+            "prefix": ["org","ecom"],
             "style": "kebab-case"
           }
         ]
